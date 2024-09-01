@@ -1,5 +1,5 @@
 # Introduction 
 + My name is Vishal Kumar.
-+ I am currently doing BSCS program in FAST NUCES.
++ My program is BSCS in FAST NUCES Karachi.
 + My Roll number is 24k-0625.
 + This is my PF Lab 2 Work.
