@@ -1,0 +1,71 @@
+h1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-right: double;
+    border-color: lightblue;
+    border-radius: 10px;
+    padding: 15px;
+    text-shadow: -5px 5px 5px silver
+}
+
+h1:hover {
+
+    box-shadow: 5px 5px 5px blueviolet;
+}
+
+h2,
+h3,
+h4,
+h5 {
+    border-top-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    border-right: double;
+    border-color: silver;
+    border-radius: 10px;
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: -5px 5px 5px silver
+}
+
+h2:hover {
+
+    box-shadow: 5px 5px 5px blueviolet;
+}
+
+h3:hover {
+
+    box-shadow: 5px 5px 5px blueviolet;
+}
+
+h4:hover {
+
+    box-shadow: 5px 5px 5px blueviolet;
+
+}
+
+h5:hover {
+
+    box-shadow: 5px 5px 5px blueviolet;
+
+}
+
+p {
+    border-style: double;
+    border-width: 5px;
+    border-color: silver;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p:hover{
+    text-shadow: 5px -5px 5px lightskyblue;
+}
+
+body {
+    background: linear-gradient(rgb(91, 143, 216), rgb(50, 17, 21));
+}
